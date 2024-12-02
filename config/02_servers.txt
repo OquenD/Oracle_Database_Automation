@@ -1,0 +1,1 @@
+192.168.100.14,root,123,/home/oracle/,/home/pc1/AutomationProject/outputFiles
